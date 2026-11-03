@@ -4,7 +4,7 @@
 
 **Three LPC2129 nodes. One CAN bus. Temperature, indicators and reverse-obstacle alerts working together.**
 
-![Protocol](https://img.shields.io/badge/Protocol-CAN%20125%20kbit%2Fs-2563eb?style=for-the-badge)
+![Protocol](https://img.shields.io/badge/Protocol-CAN%2Fs-2563eb?style=for-the-badge)
 ![MCU](https://img.shields.io/badge/MCU-LPC2129-f97316?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-Embedded%20C-dc2626?style=for-the-badge)
 ![IDE](https://img.shields.io/badge/IDE-Keil%20µVision-16a34a?style=for-the-badge)
