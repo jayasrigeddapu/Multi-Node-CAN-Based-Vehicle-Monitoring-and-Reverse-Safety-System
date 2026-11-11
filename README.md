@@ -9,7 +9,7 @@
 ![Language](https://img.shields.io/badge/Language-Embedded%20C-dc2626?style=for-the-badge)
 ![IDE](https://img.shields.io/badge/IDE-Keil%20µVision-16a34a?style=for-the-badge)
 
-<img src="images/BLOCKDIAGRAM_major.jpeg" alt="CAN-Based Vehicle Monitoring System block diagram" width="80%">
+<img src="images/BLOCKDIAGRAM.jpg" alt="CAN-Based Vehicle Monitoring System block diagram" width="80%">
 
 </div>
 
