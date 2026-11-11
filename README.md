@@ -308,7 +308,7 @@ A digital sensor on a single **1-Wire** line, so no ADC conversion is needed.
    distance_cm ≈ echo_time_us / 58
    ```
 
-   This assumes room-temperature sound speed and typical HC-SR04-style timing. Verify against the module datasheet and timer calibration.
+   This assumes room-temperature sound speed and typical HC-SR05-style timing. Verify against the module datasheet and timer calibration.
 
 **Pins (Reverse Alert Node):** Trigger `P0.20`, Echo `P0.19`.
 **Threshold:** alert when the 3-sample average is under **20 cm**. This is a software constant, not a universal safe stopping distance.
