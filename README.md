@@ -125,7 +125,7 @@ Each node connects its on-chip CAN controller to the bus through a CAN transceiv
 - The **Main-node** image shows initialization, the monitoring loop, switch-event handling, CAN transmit and received-status checks.
 
 > [!IMPORTANT]
-> **Diagram accuracy.** These images are explanatory. Where labels differ from the source or hardware (e.g. HC-SR04 vs. an HC-SR05-compatible module, or controller model text), trust the board markings, datasheets, pin configuration and compiled firmware. The diagrams do not verify wiring or test results.
+> **Diagram accuracy.** These images are explanatory. Where labels differ from the source or hardware , trust the board markings, datasheets, pin configuration and compiled firmware. The diagrams do not verify wiring or test results.
 
 ---
 
