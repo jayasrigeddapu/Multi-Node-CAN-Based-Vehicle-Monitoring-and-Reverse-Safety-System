@@ -314,7 +314,7 @@ A digital sensor on a single **1-Wire** line, so no ADC conversion is needed.
 **Threshold:** alert when the 3-sample average is under **20 cm**. This is a software constant, not a universal safe stopping distance.
 
 > [!CAUTION]
-> Many HC-SR04-style modules drive Echo at about 5 V. Check the exact module's output level and the LPC2129 input tolerance, and use a level shifter or resistor divider if needed. Never exceed the pin's absolute maximum rating.
+> Many HC-SR05-style modules drive Echo at about 5 V. Check the exact module's output level and the LPC2129 input tolerance, and use a level shifter or resistor divider if needed. Never exceed the pin's absolute maximum rating.
 
 ---
 
